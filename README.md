@@ -2,7 +2,7 @@
 
 ## Проекты автора по обходу блокировок ТСПУ
 
-> [**B4**](https://github.com/DanielLavrushin/b4) - Сетевой Linux процессор пакетов для обхода DPI-систем с веб-интерфейсом. (Linux, OpenWRT, MerlinWRT, Keenetic, Mikrotik, Docker)
+> [**B4**](https://github.com/DanielLavrushin/b4) - Сетевой Linux процессор пакетов для обхода DPI-систем с удобным веб-интерфейсом. (Linux, OpenWRT, MerlinWRT, Keenetic, Mikrotik, Docker)
 
 > [**XRAYUI**](https://github.com/DanielLavrushin/asuswrt-merlin-xrayui) - Веб-интерфейс для управления Xray-core для роутеров ASUS
 
